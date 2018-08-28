@@ -1,0 +1,1 @@
+# go-embed-static-example
